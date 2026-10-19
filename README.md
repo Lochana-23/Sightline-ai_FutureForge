@@ -1,6 +1,6 @@
 # Sightline-ai_FutureForge
 
-**Explainable Road Visibility and Near-Miss Risk Intelligence*
+*Explainable Road Visibility and Near-Miss Risk Intelligence*
 
 Team: Future Forge
 Hackathon: DEXATHON — Open Innovation
